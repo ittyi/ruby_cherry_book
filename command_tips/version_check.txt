@@ -1,0 +1,3 @@
+
+ruby -r minitest -e "puts Minitest:: VERSION"
+
