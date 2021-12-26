@@ -20,3 +20,4 @@ end
 # puts fizz_buzz(5)
 # puts fizz_buzz(6)
 # puts fizz_buzz(15)
+# command ruby test/fizz_buzz_test.rb
