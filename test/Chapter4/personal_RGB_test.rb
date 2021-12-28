@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../../lib/Chapter4/PersonalRGB'
+require_relative '../../lib/Chapter4/rgb'
 
 class RGBTest < Minitest::Test
   def test_to_hex
@@ -15,3 +15,5 @@ class RGBTest < Minitest::Test
     assert_equal [4, 60, 120], to_ints('#043c78')
   end
 end
+
+# testの内容、完全に合ってた！

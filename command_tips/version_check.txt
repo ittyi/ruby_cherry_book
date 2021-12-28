@@ -1,3 +1,5 @@
 
 ruby -r minitest -e "puts Minitest:: VERSION"
 
+test command format
+ruby test/fizz_buzz_test.rb
